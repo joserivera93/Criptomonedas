@@ -12,8 +12,7 @@ Cryptocurrencies is an application where we can see at what price is the most im
 * Android Studios
 
 ### Dependence
-
-### Structure
+![Dependencias](imagenes/dependencias.png)
 
 ### Captura
-![Interfaz]()
+![Interfaz](imagenes/interfaz.png)
